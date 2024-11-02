@@ -1,0 +1,33 @@
+﻿@model IEnumerable<SheElevate.Models.Company>
+
+<h2>Company List</h2>
+<a class="btn btn-success mb-3" asp-controller="Company" asp-action="AddCompany">Add Company</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Company ID</th>
+            <th>Company Name</th>
+            <th>Industry Type</th>
+            <th>Established Date</th>
+            <th>Review</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var company in Model)
+        {
+            <tr>
+                <td>@company.CompanyID</td>
+                <td>@company.CompanyName</td>
+                <td>@company.IndustryType</td>
+                <td>@company.EstablishedDate</td>
+                <td>@company.Review</td>
+                </tr>
+                <tr>
+                <td>
+                <td colspan="5">
+                    <a class="btn btn-primary" asp-controller="Company" asp-action="Update" asp-route-id="@company.CompanyID">Update Company</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

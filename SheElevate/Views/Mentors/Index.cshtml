@@ -1,0 +1,57 @@
+﻿@model List<SheElevate.Models.Mentors>
+
+<h1>Mentor List</h1>
+<p><a asp-action="AddData">Add Mentor</a></p>
+
+    <table border="1">
+        <tr style="background-color: yellow;">
+            <th>Mentor ID</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Email</th>
+            <th>Phone Number</th>
+            <th>Years of Experience</th>
+            <th>Company Name</th>
+            <th>Rating</th>
+        @if (User.IsInRole("Admin"))
+        {
+            <th>Delete Action</th>
+            <th>Update Action</th>
+        }
+        else if (User.IsInRole("Mentee"))
+        {
+            <th>Select Mentor</th>
+        }
+
+
+        </tr>
+    @foreach (var mentor in Model)
+        {
+            <tr>
+            <td>@mentor.MentorsID</td>
+            <td>@mentor.FirstName</td>
+            <td>@mentor.LastName</td>
+            <td>@mentor.Email</td>
+            <td>@mentor.PhoneNumber</td>
+            <td>@mentor.YearsOfExperience</td>
+            <td>@mentor.CompanyName</td>
+            <td>@mentor.Rating</td>
+            @if (User.IsInRole("Admin"))
+            {
+                <td>
+                    <a asp-action="Delete" asp-route-id="@mentor.MentorsID" class="btn btn-danger">Delete</a>
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@mentor.MentorsID" class="btn btn-primary">Edit</a>
+                </td>
+            }
+            else if (User.IsInRole("Mentee"))
+            {
+            <td>
+                    <a asp-action="BookSession" asp-route-id="@mentor.MentorsID" class="btn btn-success">Select Mentor</a>
+            </td>
+            }
+            </tr>
+        }
+    </table>
+

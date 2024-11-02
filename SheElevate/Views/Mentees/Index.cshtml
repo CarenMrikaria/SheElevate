@@ -1,0 +1,32 @@
+﻿@model IEnumerable<SheElevate.Models.Mentors>
+
+@{
+    ViewData["Title"] = "Mentees Dashboard";
+}
+
+<h2>Welcome, Mentee!</h2>
+<p>This is your dashboard.</p>
+
+<h2>Select a Mentor</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Years of Experience</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var mentor in Model)
+        {
+            <tr>
+                <td>@mentor.FirstName @mentor.LastName</td>
+                <td>@mentor.YearsOfExperience</td>
+                <td>
+                    <a asp-action="BookSession" asp-route-id="@mentor.MentorsID">Book Session</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

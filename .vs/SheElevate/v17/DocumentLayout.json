@@ -1,0 +1,882 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\SheElevate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\views\\mentors\\mentorlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\views\\mentors\\mentorlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\views\\mentors\\booksession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\views\\mentors\\booksession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\controllers\\mentorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\controllers\\mentorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SheElevate/True/SqlTable/dbo.Mentees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SheElevate/True/SqlTable/dbo.Mentors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\views\\mentees\\registermentee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\views\\mentees\\registermentee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20241001112811_AddMenteeFields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SheElevate\\Migrations\\20241001112811_AddMenteeFields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\controllers\\menteescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\controllers\\menteescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\models\\mentee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\models\\mentee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\models\\mentors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\models\\mentors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\views\\mentors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\views\\mentors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\views\\mentees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\views\\mentees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\areas\\identity\\data\\sheelevatecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\areas\\identity\\data\\sheelevatecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\migrations\\20240930220909_removereviwscolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\migrations\\20240930220909_removereviwscolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SheElevate/True/SqlTable/dbo.CompanyTable.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\migrations\\20240928180001_companytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\migrations\\20240928180001_companytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\views\\company\\addcompany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\views\\company\\addcompany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\migrations\\20240928222951_addbookingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\migrations\\20240928222951_addbookingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\migrations\\20240928061750_customuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\migrations\\20240928061750_customuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\migrations\\20240928060257_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\migrations\\20240928060257_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\migrations\\20240928071643_mentorstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\migrations\\20240928071643_mentorstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\migrations\\20240928153139_updatementorstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\migrations\\20240928153139_updatementorstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240929104843_RenameReviwsToReview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SheElevate\\Migrations\\20240929104843_RenameReviwsToReview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\views\\company\\companylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\views\\company\\companylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\views\\company\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\views\\company\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\views\\mentors\\adddata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\views\\mentors\\adddata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\views\\mentors\\editdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\views\\mentors\\editdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\models\\aboutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\models\\aboutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\views\\mentors\\mentordashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\views\\mentors\\mentordashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\views\\mentors\\menteedashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\views\\mentors\\menteedashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\areas\\identity\\data\\sheelevateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\areas\\identity\\data\\sheelevateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\migrations\\20240930225846_updatebookingwithmentee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\migrations\\20240930225846_updatebookingwithmentee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\migrations\\20240930224513_addmenteetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\migrations\\20240930224513_addmenteetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\migrations\\20240930213850_adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\migrations\\20240930213850_adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|c:\\users\\user\\source\\repos\\sheelevate\\sheelevate\\migrations\\20240930213812_fixreviewcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64550620-7846-4877-87AA-D523D97A31E2}|SheElevate\\SheElevate.csproj|solutionrelative:sheelevate\\migrations\\20240930213812_fixreviewcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 215,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Mentees [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SheElevate/True/SqlTable/dbo.Mentees.sql",
+              "ToolTip": "dbo.Mentees [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-01T09:19:59.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MentorsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Controllers\\MentorsController.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Controllers\\MentorsController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Controllers\\MentorsController.cs",
+              "RelativeToolTip": "SheElevate\\Controllers\\MentorsController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:28:45.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MentorList.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Mentors\\MentorList.cshtml",
+              "RelativeDocumentMoniker": "SheElevate\\Views\\Mentors\\MentorList.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Mentors\\MentorList.cshtml",
+              "RelativeToolTip": "SheElevate\\Views\\Mentors\\MentorList.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T21:57:12.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookSession.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Mentors\\BookSession.cshtml",
+              "RelativeDocumentMoniker": "SheElevate\\Views\\Mentors\\BookSession.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Mentors\\BookSession.cshtml",
+              "RelativeToolTip": "SheElevate\\Views\\Mentors\\BookSession.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T22:13:04.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Mentors [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SheElevate/True/SqlTable/dbo.Mentors.sql",
+              "ToolTip": "dbo.Mentors [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-01T11:49:19.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Program.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Program.cs",
+              "RelativeToolTip": "SheElevate\\Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAQwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T05:57:44.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterMentee.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Mentees\\RegisterMentee.cshtml",
+              "RelativeDocumentMoniker": "SheElevate\\Views\\Mentees\\RegisterMentee.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Mentees\\RegisterMentee.cshtml",
+              "RelativeToolTip": "SheElevate\\Views\\Mentees\\RegisterMentee.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T11:11:11.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241001112811_AddMenteeFields.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20241001112811_AddMenteeFields.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Migrations\\20241001112811_AddMenteeFields.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20241001112811_AddMenteeFields.cs",
+              "RelativeToolTip": "SheElevate\\Migrations\\20241001112811_AddMenteeFields.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:28:12.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "SheElevate\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:05:42.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenteesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Controllers\\MenteesController.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Controllers\\MenteesController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Controllers\\MenteesController.cs",
+              "RelativeToolTip": "SheElevate\\Controllers\\MenteesController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAqwE0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:26:43.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mentors.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Models\\Mentors.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Models\\Mentors.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Models\\Mentors.cs",
+              "RelativeToolTip": "SheElevate\\Models\\Mentors.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T06:55:48.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mentee.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Models\\Mentee.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Models\\Mentee.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Models\\Mentee.cs",
+              "RelativeToolTip": "SheElevate\\Models\\Mentee.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA9wBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T22:41:26.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Mentors\\Index.cshtml",
+              "RelativeDocumentMoniker": "SheElevate\\Views\\Mentors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Mentors\\Index.cshtml",
+              "RelativeToolTip": "SheElevate\\Views\\Mentors\\Index.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvzIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:35:36.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Mentees\\Index.cshtml",
+              "RelativeDocumentMoniker": "SheElevate\\Views\\Mentees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Mentees\\Index.cshtml",
+              "RelativeToolTip": "SheElevate\\Views\\Mentees\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T23:27:59.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20240930225846_UpdateBookingWithMentee.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240930225846_UpdateBookingWithMentee.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Migrations\\20240930225846_UpdateBookingWithMentee.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240930225846_UpdateBookingWithMentee.cs",
+              "RelativeToolTip": "SheElevate\\Migrations\\20240930225846_UpdateBookingWithMentee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T22:58:47.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "SheElevate\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAswIYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T16:11:00.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "SheElevate\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAswCsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T06:20:00.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Models\\Booking.cs",
+              "RelativeToolTip": "SheElevate\\Models\\Booking.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:53:18.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SheElevateContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Areas\\Identity\\Data\\SheElevateContext.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Areas\\Identity\\Data\\SheElevateContext.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Areas\\Identity\\Data\\SheElevateContext.cs",
+              "RelativeToolTip": "SheElevate\\Areas\\Identity\\Data\\SheElevateContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:12:42.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20240930224513_AddMenteeTable.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240930224513_AddMenteeTable.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Migrations\\20240930224513_AddMenteeTable.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240930224513_AddMenteeTable.cs",
+              "RelativeToolTip": "SheElevate\\Migrations\\20240930224513_AddMenteeTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T22:45:14.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240930220909_RemoveReviwsColumn.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240930220909_RemoveReviwsColumn.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Migrations\\20240930220909_RemoveReviwsColumn.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240930220909_RemoveReviwsColumn.cs",
+              "RelativeToolTip": "SheElevate\\Migrations\\20240930220909_RemoveReviwsColumn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T22:09:11.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "dbo.CompanyTable [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SheElevate/True/SqlTable/dbo.CompanyTable.sql",
+              "ToolTip": "dbo.CompanyTable [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-30T22:06:03.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Models\\Company.cs",
+              "RelativeToolTip": "SheElevate\\Models\\Company.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:56:15.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240928180001_CompanyTable.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240928180001_CompanyTable.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Migrations\\20240928180001_CompanyTable.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240928180001_CompanyTable.cs",
+              "RelativeToolTip": "SheElevate\\Migrations\\20240928180001_CompanyTable.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:00:01.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddCompany.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Company\\AddCompany.cshtml",
+              "RelativeDocumentMoniker": "SheElevate\\Views\\Company\\AddCompany.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Company\\AddCompany.cshtml",
+              "RelativeToolTip": "SheElevate\\Views\\Company\\AddCompany.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T18:05:16.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20240930213850_Adduserrole.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240930213850_Adduserrole.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Migrations\\20240930213850_Adduserrole.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240930213850_Adduserrole.cs",
+              "RelativeToolTip": "SheElevate\\Migrations\\20240930213850_Adduserrole.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:38:50.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "SheElevate\\Controllers\\CompanyController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:02:16.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240928222951_AddBookingTable.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240928222951_AddBookingTable.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Migrations\\20240928222951_AddBookingTable.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240928222951_AddBookingTable.cs",
+              "RelativeToolTip": "SheElevate\\Migrations\\20240928222951_AddBookingTable.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:29:52.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20240930213812_FixReviewColumn.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240930213812_FixReviewColumn.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Migrations\\20240930213812_FixReviewColumn.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240930213812_FixReviewColumn.cs",
+              "RelativeToolTip": "SheElevate\\Migrations\\20240930213812_FixReviewColumn.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:38:12.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240928061750_CustomUserData.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240928061750_CustomUserData.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Migrations\\20240928061750_CustomUserData.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240928061750_CustomUserData.cs",
+              "RelativeToolTip": "SheElevate\\Migrations\\20240928061750_CustomUserData.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T06:17:51.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240928060257_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240928060257_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Migrations\\20240928060257_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240928060257_CreateIdentitySchema.cs",
+              "RelativeToolTip": "SheElevate\\Migrations\\20240928060257_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T06:02:58.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240928071643_MentorsTable.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240928071643_MentorsTable.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Migrations\\20240928071643_MentorsTable.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240928071643_MentorsTable.cs",
+              "RelativeToolTip": "SheElevate\\Migrations\\20240928071643_MentorsTable.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA5wC4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:19:41.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240928153139_UpdateMentorsTable.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240928153139_UpdateMentorsTable.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Migrations\\20240928153139_UpdateMentorsTable.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240928153139_UpdateMentorsTable.cs",
+              "RelativeToolTip": "SheElevate\\Migrations\\20240928153139_UpdateMentorsTable.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T15:31:42.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240929104843_RenameReviwsToReview.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240929104843_RenameReviwsToReview.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Migrations\\20240929104843_RenameReviwsToReview.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Migrations\\20240929104843_RenameReviwsToReview.cs",
+              "RelativeToolTip": "SheElevate\\Migrations\\20240929104843_RenameReviwsToReview.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:48:44.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CompanyList.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Company\\CompanyList.cshtml",
+              "RelativeDocumentMoniker": "SheElevate\\Views\\Company\\CompanyList.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Company\\CompanyList.cshtml",
+              "RelativeToolTip": "SheElevate\\Views\\Company\\CompanyList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T22:56:32.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Company\\Update.cshtml",
+              "RelativeDocumentMoniker": "SheElevate\\Views\\Company\\Update.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Company\\Update.cshtml",
+              "RelativeToolTip": "SheElevate\\Views\\Company\\Update.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T23:17:41.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SheElevate\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:27:03.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SheElevate\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SheElevate\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAIwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T05:58:24.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "SheElevate\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "SheElevate\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:44:35.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "SheElevate\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "SheElevate\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T21:28:36.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SheElevate\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SheElevate\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T19:36:18.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AddData.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Mentors\\AddData.cshtml",
+              "RelativeDocumentMoniker": "SheElevate\\Views\\Mentors\\AddData.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Mentors\\AddData.cshtml",
+              "RelativeToolTip": "SheElevate\\Views\\Mentors\\AddData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:34:18.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EditData.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Mentors\\EditData.cshtml",
+              "RelativeDocumentMoniker": "SheElevate\\Views\\Mentors\\EditData.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Mentors\\EditData.cshtml",
+              "RelativeToolTip": "SheElevate\\Views\\Mentors\\EditData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T15:53:42.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AboutModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Models\\AboutModel.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Models\\AboutModel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Models\\AboutModel.cs",
+              "RelativeToolTip": "SheElevate\\Models\\AboutModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:36:06.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SheElevate\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "SheElevate\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T17:46:49.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SheElevate\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "SheElevate\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T06:28:33.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MentorDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Mentors\\MentorDashboard.cshtml",
+              "RelativeDocumentMoniker": "SheElevate\\Views\\Mentors\\MentorDashboard.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Mentors\\MentorDashboard.cshtml",
+              "RelativeToolTip": "SheElevate\\Views\\Mentors\\MentorDashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T17:25:52.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MenteeDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Mentors\\MenteeDashboard.cshtml",
+              "RelativeDocumentMoniker": "SheElevate\\Views\\Mentors\\MenteeDashboard.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Views\\Mentors\\MenteeDashboard.cshtml",
+              "RelativeToolTip": "SheElevate\\Views\\Mentors\\MenteeDashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T17:27:22.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SheElevateUser.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Areas\\Identity\\Data\\SheElevateUser.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Areas\\Identity\\Data\\SheElevateUser.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Areas\\Identity\\Data\\SheElevateUser.cs",
+              "RelativeToolTip": "SheElevate\\Areas\\Identity\\Data\\SheElevateUser.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T06:09:40.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "SheElevate\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "SheElevate\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T06:43:27.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SheElevate\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "SheElevate\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAmwGEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T06:33:08.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "SheElevate\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SheElevate\\SheElevate\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "SheElevate\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-28T05:56:15.612Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 18,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

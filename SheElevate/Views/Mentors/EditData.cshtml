@@ -1,0 +1,69 @@
+﻿@model SheElevate.Models.Mentors
+
+<center>
+    <h1>Edit Mentor Information:</h1>
+    <br /><hr /><br />
+    <form method="post" asp-action="UpdateData" asp-controller="Mentors">
+        <table border="1">
+            <tr>
+                <th><label asp-for="MentorsID"></label></th>
+                <td><input asp-for="MentorsID" readonly /></td>
+            </tr>
+
+            <tr>
+                <th><label asp-for="FirstName"></label></th>
+                <td><input asp-for="FirstName" /></td>
+                <td><span asp-validation-for="FirstName"></span></td>
+            </tr>
+
+            <tr>
+                <th><label asp-for="LastName"></label></th>
+                <td><input asp-for="LastName" /></td>
+                <td><span asp-validation-for="LastName"></span></td>
+            </tr>
+
+            <tr>
+                <th><label asp-for="Email"></label></th>
+                <td><input asp-for="Email" /></td>
+                <td><span asp-validation-for="Email"></span></td>
+            </tr>
+
+            <tr>
+                <th><label asp-for="PhoneNumber"></label></th>
+                <td><input asp-for="PhoneNumber" /></td>
+                <td><span asp-validation-for="PhoneNumber"></span></td>
+            </tr>
+
+            <tr>
+                <th><label asp-for="YearsOfExperience"></label></th>
+                <td><input asp-for="YearsOfExperience" /></td>
+                <td><span asp-validation-for="YearsOfExperience"></span></td>
+            </tr>
+
+            <tr>
+                <th><label asp-for="CompanyName"></label></th>
+                <td><input asp-for="CompanyName" /></td>
+                <td><span asp-validation-for="CompanyName"></span></td>
+            </tr>
+
+            <tr>
+                <th><label asp-for="Rating"></label></th>
+                <td><input asp-for="Rating" /></td>
+                <td><span asp-validation-for="Rating"></span></td>
+            </tr>
+
+            <tr>
+                <th><label asp-for="DateJoined"></label></th>
+                <td><input asp-for="DateJoined" type="date" /></td>
+                <td><span asp-validation-for="DateJoined"></span></td>
+            </tr>
+
+            <tr>
+                <td colspan="3" style="text-align:center">
+                    <button type="submit" class="btn-info">Update Mentor Information</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+</center>
+

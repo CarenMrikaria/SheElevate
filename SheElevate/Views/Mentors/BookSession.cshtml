@@ -1,0 +1,30 @@
+﻿@model SheElevate.Models.Booking
+
+@if (Model.Mentors != null)
+{
+<h2>Book a Session with @Model.Mentors.FirstName @Model.Mentors.LastName</h2>
+
+<form asp-action="BookSession">
+    <div class="form-group">
+        <label asp-for="Mentors.FirstName"></label>
+        <input asp-for="Mentors.FirstName" class="form-control" disabled />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Mentors.LastName"></label>
+        <input asp-for="Mentors.LastName" class="form-control" disabled />
+    </div>
+    <input type="hidden" asp-for="MentorsID" />
+    <input type="hidden" asp-for="MenteeID" />
+    <div class="form-group">
+        <label asp-for="SessionDetails"></label>
+        <textarea asp-for="SessionDetails" class="form-control" required></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Confirm Booking</button>
+</form>
+}
+else
+{
+    <h2>Mentor not found. Please go back and select a valid mentor.</h2>
+}

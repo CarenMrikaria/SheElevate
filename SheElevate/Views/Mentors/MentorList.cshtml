@@ -1,0 +1,41 @@
+﻿@model IEnumerable<SheElevate.Models.Mentors>
+
+<h2>Select a Mentor</h2>
+
+@if (User.IsInRole("Mentee"))
+{
+    
+    <a class="btn btn-primary mb-3" asp-action="RegisterMentee" asp-controller="Mentors">Register as Mentee</a>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Years of Experience</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var mentors in Model)
+        {
+            <tr>
+                <td>@mentors.FirstName @mentors.LastName</td>
+                <td>@mentors.YearsOfExperience</td>
+                <td>
+                    @if (User.IsInRole("Mentee")) 
+                    {
+                        <a asp-action="BookSession" asp-route-id="@mentors.MentorsID">Book Session</a>
+                    }
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a asp-action="Edit" asp-route-id="@mentors.MentorsID">Edit </a>
+                        <a asp-action="Delete" asp-route-id="@mentors.MentorsID">Delete </a>
+                    }
+
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
